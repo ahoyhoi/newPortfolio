@@ -1,0 +1,30 @@
+.thumbnail1{
+    transform: rotate(260deg);
+    position: relative;
+    top: 35px;
+}
+
+.name {
+    position: relative;
+    top: 75px;
+    text-align: center;
+}
+
+.nameSub{
+    position: relative;
+    top: 80px;
+}
+
+
+h1{
+    font-family: 'EB Garamond', serif;
+}
+
+.thumbnail{
+    height: 300px;
+    width: 300px;
+}
+
+body{
+    font-family: 'Quicksand', sans-serif;
+}
